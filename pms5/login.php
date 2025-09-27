@@ -136,7 +136,7 @@ if (isset($_POST['login'])) {
             echo "Invalid password!";
         }
     } else {
-        echo "No user found!";
+        echo "User Not found!";
     }
 }
 ?>
