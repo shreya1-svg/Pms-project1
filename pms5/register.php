@@ -147,7 +147,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
 
         <button class="btn btn-primary btn-full" type="submit">
-          <i class="fas fa-user-plus"></i> Create Account
+          <i class="fas fa-user-plus"></i> Create an Account
         </button>
       </form>
 
