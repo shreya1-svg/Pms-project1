@@ -78,7 +78,7 @@ if (isset($_POST['login'])) {
                 </div>
 
                 <div class="form-group">
-                    <label class="form-label">Email Address</label>
+                    <label class="form-label">E-mail Address</label>
                     <div class="input-group">
                         <input type="email" name="email" class="form-input" placeholder="Enter your email" 
                                value="<?php echo isset($_POST['email']) ? htmlspecialchars($_POST['email']) : ''; ?>" required>
